@@ -1,2 +1,2 @@
 # getmetar
-Baixa o METAR do site 'aviationweather' conforme parâmetros
+Baixa o METAR do site 'aviationweather' conforme parâmetros.

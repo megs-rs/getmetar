@@ -1,3 +1,4 @@
+#!/bin/python
 import sys
 import pytz
 from datetime import datetime, timezone, timedelta
@@ -51,5 +52,3 @@ if __name__ == '__main__':
 
         print('local: ', aero, ' data e hora: ', dt, " temperatura: %2.0f︒C" % t, " ponto de orvalho: %2.0f︒C" % to, " (umidade: %5.1f%%" % u, ") pressão: %5.2f" % \
             p, ' inHg (%6.1f mb)' % pmb, sep='')
-
-    
